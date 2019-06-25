@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title> Business icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Blog-homepage" transform="translate(-804.000000, -3568.000000)" stroke="#4B546B">
+            <g id="Best-of-Time-Doctor-blog" transform="translate(-15.000000, 3025.000000)">
+                <g id="Business-articles" transform="translate(817.000000, 544.000000)">
+                    <g id="-Business-icon" transform="translate(3.000000, 0.000000)">
+                        <g id="Group" transform="translate(0.327586, 0.327586)">
+                            <path d="M6.55172414,3.27586207 L6.55172414,1.00066662 C6.55172414,0.448013705 7.00205067,1.88293825e-13 7.54679002,1.88293825e-13 L12.1083824,1.88293825e-13 C12.6579421,1.88293825e-13 13.1034483,0.455494585 13.1034483,1.00066662 L13.1034483,3.27586207" id="Shape"></path>
+                            <path d="M7.20689655,13.7586207 L2.00752248,13.7586207 C0.89879843,13.7586207 -3.90798505e-14,12.8648666 -3.90798505e-14,11.7622196 L-3.90798505e-14,5.27226312 C-3.90798505e-14,4.16968127 0.895616227,3.27586207 1.99280843,3.27586207 L17.662364,3.27586207 C18.7629617,3.27586207 19.6551724,4.16961617 19.6551724,5.27226312 L19.6551724,11.7622196 C19.6551724,12.8648015 18.7569858,13.7586207 17.6476499,13.7586207 L12.4482759,13.7586207" id="Shape"></path>
+                            <path d="M19,15.7241379 L19,17.0344828 C19,17.7581662 18.410412,18.3448276 17.6806852,18.3448276 L1.97448717,18.3448276 C1.24584975,18.3448276 0.655172414,17.7632116 0.655172414,17.0344828 L0.655172414,15.7241379" id="Shape"></path>
+                            <rect id="Rectangle-path" x="7.20689655" y="11.7931034" width="5.24137931" height="3.93103448" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TD-Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-24 08:43+0000\n"
+"PO-Revision-Date: 2017-08-23 14:47+0700\n"
+"Last-Translator: Nong <nong@staff.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#: category.php:11 index.php:11
+msgid "MORE POSTS"
+msgstr "БОЛЬШЕ ПОЧТОВ"
+
+#: footer.php:6
+msgid "General"
+msgstr "Основное"
+
+#: footer.php:11
+msgid "Pricing"
+msgstr "Цены"
+
+#: footer.php:14
+msgid "Case Studies"
+msgstr "Примеры"
+
+#: footer.php:17
+msgid "Download"
+msgstr "Скачать"
+
+#: footer.php:20
+msgid "Features"
+msgstr "Функции"
+
+#: footer.php:23
+msgid "FAQ"
+msgstr "Вопросы - Ответы"
+
+#: footer.php:26
+msgid "Affiliates"
+msgstr "Партнёрам"
+
+#: footer.php:32
+msgid "Blog"
+msgstr "Блог"
+
+#: footer.php:37
+msgid "Product"
+msgstr "Продукт"
+
+#: footer.php:40
+msgid "Business"
+msgstr "Бизнес"
+
+#: footer.php:46
+msgid "Contact"
+msgstr "Контакты"
+
+#: footer.php:51
+msgid "Buzz"
+msgstr "Отзывы"
+
+#: footer.php:54
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: footer.php:57
+msgid "Product Feedback"
+msgstr ""
+
+#: footer.php:63
+msgid "About"
+msgstr "О компании"
+
+#: footer.php:68
+msgid "About Us"
+msgstr "О компании"
+
+#: footer.php:71
+msgid "Help Center"
+msgstr "Справочный центр"
+
+#: footer.php:73
+msgid "Uptime Status"
+msgstr "Статус"
+
+#: footer.php:78
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: footer.php:83
+msgid "API"
+msgstr "API"
+
+#: footer.php:86
+msgid "Basecamp"
+msgstr "Basecamp"
+
+#: footer.php:89
+msgid "Asana"
+msgstr "Asana"
+
+#: footer.php:92
+msgid "Salesforce"
+msgstr "Salesforce"
+
+#: footer.php:95
+msgid "Google Apps"
+msgstr "Google Apps"
+
+#: footer.php:98
+msgid "Trello"
+msgstr "Trello"
+
+#: footer.php:101
+msgid "WorkflowMAX"
+msgstr "WorkflowMAX"
+
+#: footer.php:104
+msgid "GitHub"
+msgstr "GitHub"
+
+#: footer.php:107
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: footer.php:110
+msgid "Slack"
+msgstr "Slack"
+
+#: footer.php:113
+msgid "Jira"
+msgstr "Jira"
+
+#: footer.php:116
+msgid "Teamwork"
+msgstr "Teamwork"
+
+#: footer.php:119
+msgid "See All 32 Integrations"
+msgstr "Посмотреть все 32 интеграции"
+
+#: footer.php:140
+msgid "Privacy Policy"
+msgstr "Конфиденциальность"
+
+#: footer.php:143
+msgid "Terms of Service"
+msgstr "Условия"
+
+#: functions.php:117
+msgid "Read more"
+msgstr "Читать"
+
+#: header-home.php:56 header-home.php:193 header.php:75 header.php:162
+msgid "FEATURES"
+msgstr "Функции"
+
+#: header-home.php:57 header-home.php:194 header.php:76 header.php:163
+msgid "PRICING"
+msgstr "Цены"
+
+#: header-home.php:58 header-home.php:195 header.php:77 header.php:164
+msgid "BLOG"
+msgstr "Блог"
+
+#: header-home.php:59 header-home.php:196 header.php:78 header.php:165
+msgid "SIGN IN"
+msgstr "Вход"
+
+#: header-home.php:60 header-home.php:197 header.php:79 header.php:166
+msgid "SIGN UP"
+msgstr "Подписка"
+
+#: header-home.php:65
+msgid "Time Doctor Blog"
+msgstr "Time Doctor Блог"
+
+#: header-home.php:66
+msgid "Reinvent how your business works through virtual teams"
+msgstr "Перестройте работу вашего бизнеса через виртуальную команду"
+
+#: header-home.php:109 header-home.php:122 header-home.php:134
+#: header-home.php:190 header.php:117 header.php:130 header.php:142
+#: header.php:159
+msgid "MOST RECENT"
+msgstr "Последние"
+
+#: header-home.php:206 header-home.php:215 header.php:175 header.php:184
+msgid "Search"
+msgstr "Поиск"
+
+#: index.php:34
+msgid "WHAT CAN YOU DO WITH TIME DOCTOR?"
+msgstr "Чем полезен Time Doctor?"
+
+#: index.php:37
+msgid "With Time Doctor&sbquo; you can track your team&#44;s time&sbquo; track individual tasks&sbquo; and bill clients for tracked work hours."
+msgstr "С Тайм Доктор вы можете вести учет рабочего времени вашей команды, отслеживать индивидуальные задачи и платить заказчикам по отработанным часам."
+
+#: index.php:47
+msgid "Our time tracking software increases workplace productivity by up to 22&#37;"
+msgstr "Наш тайм трекер увеличивает производительность на рабочих местах до 22&#37;"
+
+#: index.php:49
+msgid "TRY IT NOW"
+msgstr "ПОПРОБУЙТЕ СЕЙЧАС"
+
+#: search.php:5 search.php:39
+msgid "SEARCH RESULTS"
+msgstr "РЕЗУЛЬТАТЫ ПОИСКА"
+
+#: search.php:5
+#, php-format
+msgid "<label>%s</label>"
+msgstr ""
+
+#: search.php:42
+msgid "No articles found"
+msgstr "Не найдено статей"
+
+#. Name of the theme
+msgid "TD-Blog"
+msgstr ""
+
+#. Description of the theme
+msgid "Time Doctor Blog."
+msgstr ""
+
+#. URI of the theme
+msgid "http://wordpress.org/themes/TD-Blog"
+msgstr ""
+
+#. Author of the theme
+msgid "Timedoctor"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://timedoctor.com/"
+msgstr ""
+
+msgid "MORE BUSINESS ARTICLES"
+msgstr "БОЛЬШЕ БИЗНЕС-СТАТЕЙ"
+
+msgid "Productivity"
+msgstr "Продуктивность"
+
+msgid "About the Author"
+msgstr "Об авторе"
+
+msgid "Latest Posts"
+msgstr "Последние посты"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Please fill out this field"
+msgstr "Пожалуйста, заполните это поле"

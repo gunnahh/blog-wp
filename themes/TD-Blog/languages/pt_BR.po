@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TD-Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-25 04:42+0000\n"
+"PO-Revision-Date: 2017-07-30 17:27+0700\n"
+"Last-Translator: Nong <nong@staff.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+
+#: category.php:11 index.php:11
+msgid "MORE POSTS"
+msgstr "MAIS POSTOS"
+
+#: footer.php:6
+msgid "General"
+msgstr "Geral"
+
+#: footer.php:11
+msgid "Pricing"
+msgstr "Consulte os Preços"
+
+#: footer.php:14
+msgid "Case Studies"
+msgstr "Estudos de Caso"
+
+#: footer.php:17
+msgid "Download"
+msgstr "Baixar"
+
+#: footer.php:20
+msgid "Features"
+msgstr "Características"
+
+#: footer.php:23
+msgid "FAQ"
+msgstr "FAQ"
+
+#: footer.php:26
+msgid "Affiliates"
+msgstr "Afiliados"
+
+#: footer.php:32
+msgid "Blog"
+msgstr "Blog"
+
+#: footer.php:37
+msgid "Product"
+msgstr "Produtos"
+
+#: footer.php:40
+msgid "Business"
+msgstr "Negócios"
+
+#: footer.php:46
+msgid "Contact"
+msgstr "Contato"
+
+#: footer.php:51
+msgid "Buzz"
+msgstr "Novidades"
+
+#: footer.php:54
+msgid "Contact Us"
+msgstr "Contato"
+
+#: footer.php:57
+msgid "Product Feedback"
+msgstr "Feedback do produto"
+
+#: footer.php:63
+msgid "About"
+msgstr "Sobre"
+
+#: footer.php:68
+msgid "About Us"
+msgstr "Quem Somos"
+
+#: footer.php:71
+msgid "Help Center"
+msgstr "Central de Ajuda"
+
+#: footer.php:73
+msgid "Uptime Status"
+msgstr "Estado de Atividade"
+
+#: footer.php:78
+msgid "Integrations"
+msgstr "Integrações"
+
+#: footer.php:83
+msgid "API"
+msgstr "API"
+
+#: footer.php:86
+msgid "Basecamp"
+msgstr "Basecamp"
+
+#: footer.php:89
+msgid "Asana"
+msgstr "Asana"
+
+#: footer.php:92
+msgid "Salesforce"
+msgstr "Salesforce"
+
+#: footer.php:95
+msgid "Google Apps"
+msgstr "Google Apps"
+
+#: footer.php:98
+msgid "Trello"
+msgstr "Trello"
+
+#: footer.php:101
+msgid "WorkflowMAX"
+msgstr "WorkflowMAX"
+
+#: footer.php:104
+msgid "GitHub"
+msgstr "GitHub"
+
+#: footer.php:107
+msgid "Zendesk"
+msgstr "Zendesk"
+
+#: footer.php:110
+msgid "Slack"
+msgstr "Slack"
+
+#: footer.php:113
+msgid "Jira"
+msgstr "Jira"
+
+#: footer.php:116
+msgid "Teamwork"
+msgstr "Teamwork"
+
+#: footer.php:119
+msgid "See All 32 Integrations"
+msgstr "Conhecer Todas as 32 Integrações"
+
+#: footer.php:140
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: footer.php:143
+msgid "Terms of Service"
+msgstr "Termos de Serviço"
+
+#: functions.php:117
+msgid "Read more"
+msgstr "Consulte Mais informação"
+
+#: header-home.php:56 header-home.php:189 header.php:75 header.php:158
+msgid "FEATURES"
+msgstr "CARACTERÍSTICAS"
+
+#: header-home.php:57 header-home.php:190 header.php:76 header.php:159
+msgid "PRICING"
+msgstr "CONSULTE OS PREÇOS"
+
+#: header-home.php:58 header-home.php:191 header.php:77 header.php:160
+msgid "BLOG"
+msgstr "BLOG"
+
+#: header-home.php:59 header-home.php:192 header.php:78 header.php:161
+msgid "SIGN IN"
+msgstr "ENTRAR"
+
+#: header-home.php:60 header-home.php:193 header.php:79 header.php:162
+msgid "SIGN UP"
+msgstr "CADASTRO"
+
+#: header-home.php:65
+msgid "Time Doctor Blog"
+msgstr ""
+
+#: header-home.php:66
+msgid "Reinvent how your business works through virtual teams"
+msgstr "Reinvente como o seu negócio gerencia equipes virtuais"
+
+#: header-home.php:110 header-home.php:122 header-home.php:160
+#: header-home.php:186 header.php:118 header.php:130 header.php:142
+#: header.php:155
+msgid "MOST RECENT"
+msgstr "MAIS RECENTES"
+
+#: header-home.php:202 header-home.php:211 header.php:171 header.php:180
+msgid "Search"
+msgstr "Pesquisar"
+
+#: index.php:34
+msgid "WHAT CAN YOU DO WITH TIME DOCTOR?"
+msgstr "O QUE VOCÊ PODE FAZER COM O TIME DOCTOR?"
+
+#: index.php:37
+msgid "With Time Doctor&sbquo; you can track your team&#44;s time&sbquo; track individual tasks&sbquo; and bill clients for tracked work hours."
+msgstr "Com o Time Doctor, você pode controlar o horário da sua equipe, acompanhar tarefas individuais e faturar os clientes pelas horas realmente trabalhadas."
+
+#: index.php:47
+msgid "Our time tracking software increases workplace productivity by up to 22&#37;"
+msgstr "Nosso aplicativo para controle de horas aumenta a produtividade no trabalho em até 22&#37;"
+
+#: index.php:49
+msgid "TRY IT NOW"
+msgstr "EXPERIMENTE JÁ"
+
+#: search.php:5 search.php:39
+msgid "SEARCH RESULTS"
+msgstr "PROCURAR RESULTADOS"
+
+#: search.php:5
+#, php-format
+msgid "<label>%s</label>"
+msgstr ""
+
+#: search.php:42
+msgid "No articles found"
+msgstr "Nenhum artigo encontrado"
+
+#. Name of the theme
+msgid "TD-Blog"
+msgstr ""
+
+#. Description of the theme
+msgid "Time Doctor Blog."
+msgstr "Blog do Time Doctor."
+
+#. URI of the theme
+msgid "http://wordpress.org/themes/TD-Blog"
+msgstr ""
+
+#. Author of the theme
+msgid "Timedoctor"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://timedoctor.com/"
+msgstr ""
+
+msgid "MORE BUSINESS ARTICLES"
+msgstr "MAIS ARTIGOS DE EMPRESAS"
+
+msgid "Productivity"
+msgstr "Produtividade"
+
+msgid "About the Author"
+msgstr "Sobre o autor"
+
+msgid "Latest Posts"
+msgstr "Últimas postagens"
+
+msgid "Comment"
+msgstr "Comentário"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Website"
+msgstr "Site"
+
+msgid "Please fill out this field"
+msgstr "Por favor, preencha este campo"

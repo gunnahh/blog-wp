@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="29px" viewBox="0 0 31 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title> Business icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Blog-homepage" transform="translate(-165.000000, -951.000000)" stroke="#9BC3FA">
+            <g id="Articles" transform="translate(135.000000, 550.000000)">
+                <g id="1">
+                    <g id="Business-category" transform="translate(30.000000, 400.000000)">
+                        <g id="-Business-icon" transform="translate(0.000000, 1.000000)">
+                            <g id="Group" transform="translate(0.500000, 0.500000)">
+                                <path d="M10,5 L10,0.999807492 C10,0.447629061 10.4556644,0 10.9953976,0 L19.0046024,0 C19.5543453,0 20,0.443716645 20,0.999807492 L20,5" id="Shape"></path>
+                                <path d="M11,21 L1.99201702,21 C0.891856397,21 0,20.1054862 0,19.0059397 L0,6.99406028 C0,5.8927712 0.89784041,5 1.99161703,5 L28.008383,5 C29.1083227,5 30,5.89451376 30,6.99406028 L30,19.0059397 C30,20.1072288 29.0998238,21 28.007983,21 L19,21" id="Shape"></path>
+                                <path d="M29,24 L29,26 C29,27.1045695 28.1001025,28 27.0087557,28 L2.99124431,28 C1.89151044,28 1,27.1122704 1,26 L1,24" id="Shape"></path>
+                                <rect id="Rectangle-path" x="11" y="18" width="8" height="6" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

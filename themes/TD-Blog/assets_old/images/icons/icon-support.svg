@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="31px" viewBox="0 0 27 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Support icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Blog-category-Mobile-view-Copy" transform="translate(-50.000000, -4384.000000)" stroke="#9BC3FA">
+            <g id="Articles" transform="translate(20.000000, 600.000000)">
+                <g id="7" transform="translate(0.000000, 3475.000000)">
+                    <g id="Support-category" transform="translate(30.000000, 309.000000)">
+                        <g id="Support-icon">
+                            <g id="Group" transform="translate(0.500000, 0.500000)">
+                                <path d="M16,30 L22,30 C24.209,30 26,28.209 26,26 L26,22" id="Shape"></path>
+                                <path d="M6,15 L0,15 L0,22 C0,23.657 1.343,25 3,25 L6,25 L6,15 Z" id="Shape"></path>
+                                <path d="M26,15 L20,15 L20,25 L23,25 C24.657,25 26,23.657 26,22 L26,15 Z" id="Shape"></path>
+                                <path d="M26,15 L26,13 C26,5.82 20.18,0 13,0 L13,0 C5.82,0 0,5.82 0,13 L0,15" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

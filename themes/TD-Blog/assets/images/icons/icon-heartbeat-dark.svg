@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Heartbeat icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog-homepage" transform="translate(-804.000000, -3209.000000)" stroke="#4B546B">
+            <g id="Best-of-Time-Doctor-blog" transform="translate(-15.000000, 3025.000000)">
+                <g id="Heartbeat-articles" transform="translate(817.000000, 185.000000)">
+                    <g id="Heartbeat-icon" transform="translate(3.000000, 0.000000)">
+                        <g id="Group" transform="translate(0.333333, 0.333333)">
+                            <polyline id="Shape" points="1.2 9.33333333 6.66666667 9.33333333 8 6.66666667 11.3333333 12 12.6666667 9.33333333 18.8 9.33333333"></polyline>
+                            <path d="M14.5333333,0 C12.6666667,0 11,1 10,2.46666667 C9,1 7.33333333,0 5.46666667,0 C2.46666667,0 0,2.46666667 0,5.53333333 C0,11.0666667 10,19.3333333 10,19.3333333 C10,19.3333333 20,11.0666667 20,5.53333333 C20,2.46666667 17.5333333,0 14.5333333,0 Z" id="Shape" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
